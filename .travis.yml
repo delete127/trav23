@@ -3,4 +3,4 @@ python:
   - "3.6"
 cache: pip
 script:
-  - python assignment1/hello_world.py
+  - python assignment1/*.py
